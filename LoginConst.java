@@ -9,7 +9,7 @@ public final class LoginConst {
 		
 	//密码
 	public static String password = 
-			""******************************************";
+			"******************************************";
 	
 	//登录页面的链接
 	public static String loginURLString = 
